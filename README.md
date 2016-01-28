@@ -1,45 +1,45 @@
 # cop3530_hw2
 cop3530 second homework 2
 
-## result from testing UFL Thunder:
-thunderx:3% g++ main.cpp -o ccc
-thunderx:4% ./ccc
-5
-1 2 3 4 5
-1
-1
-2
-11 12
-1 11 2 12 3 4 5 
-thunderx:5% ./ccc
-5
-1 2 3 4 5
-2
-1
-2
-11 12
-3
-2
-21 22
-1 11 2 21 12 3 4 22 5 
-thunderx:6% ./ccc
-3
-1 2 3
-5
-1
-2
-1 2
-2
-2
-1 2
-3
-2
-1 2
-4
-2
-1 2
-5
-2
-1 2
-1 1 1 1 1 1 2 2 2 2 2 2 3 
-thunderx:7% 
+## result from testing UFL Thunder:<br>
+thunderx:3% g++ main.cpp -o ccc<br>
+thunderx:4% ./ccc<br>
+5<br>
+1 2 3 4 5<br>
+1<br>
+1<br>
+2<br>
+11 12<br>
+1 11 2 12 3 4 5 <br>
+thunderx:5% ./ccc<br>
+5<br>
+1 2 3 4 5<br>
+2<br>
+1<br>
+2<br>
+11 12<br>
+3<br>
+2<br>
+21 22<br>
+1 11 2 21 12 3 4 22 5 <br>
+thunderx:6% ./ccc<br>
+3<br>
+1 2 3<br>
+5<br>
+1<br>
+2<br>
+1 2<br>
+2<br>
+2<br>
+1 2<br>
+3<br>
+2<br>
+1 2<br>
+4<br>
+2<br>
+1 2<br>
+5<br>
+2<br>
+1 2<br>
+1 1 1 1 1 1 2 2 2 2 2 2 3<br> 
+thunderx:7% <br>
